@@ -1,4 +1,6 @@
 # dra-cli  
+Command line app to read DRA Bible  
+
 Steps to run:  
 cargo build --release  
 ./target/release/dra-cli.exe [FLAGS] &lt;QUERY>  
